@@ -6,9 +6,9 @@
 
 * [Галоўная старонка](docs/untitled.md)
 
-## Рэлізы <a id="relises"></a>
+## Рэлізы <a id="releases"></a>
 
-* [1.0.0-beta](relises/1.0.0-beta.md)
+* [1.0.0-beta](releases/1.0.0-beta.md)
 
 ---
 

@@ -4,7 +4,7 @@
 
 ## Дакументацыя <a id="docs"></a>
 
-* [Untitled](docs/untitled.md)
+* [Галоўная старонка](docs/untitled.md)
 
 ## Рэлізы <a id="relises"></a>
 

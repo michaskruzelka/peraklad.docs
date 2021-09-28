@@ -1,12 +1,17 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Агульная інфармацыя](README.md)
 
-## Дакументацыя
+## Дакументацыя <a id="docs"></a>
 
-* [Untitled](dakumentacyya/untitled.md)
+* [Untitled](docs/untitled.md)
 
-## Рэлізы
+## Рэлізы <a id="relises"></a>
 
-* [Untitled](relizy/untitled.md)
+* [1.0.0-beta](relises/1.0.0-beta.md)
+
+---
+
+* [Перайсці на сэрвіс](https://peraklad.ai)
+* [Звязацца з намі](https://twitter.com/peraklad_ai)
 

@@ -4,6 +4,7 @@
 
 ## Дакументацыя <a id="docs"></a>
 
+* [Верхняя панэль](docs/verkhnyaya-panel.md)
 * [Галоўная старонка](docs/untitled.md)
 
 ## Рэлізы <a id="releases"></a>

@@ -6,6 +6,8 @@
 
 * [Верхняя панэль](docs/verkhnyaya-panel.md)
 * [Галоўная старонка](docs/untitled.md)
+* [Кіраванне праектам](docs/kiravanne-praektam.md)
+* [Удзел у праекце](docs/udzel-u-praekce.md)
 
 ## Рэлізы <a id="releases"></a>
 

@@ -8,6 +8,7 @@
 * [Галоўная старонка](docs/untitled.md)
 * [Кіраванне праектам](docs/kiravanne-praektam.md)
 * [Удзел у праекце](docs/udzel-u-praekce.md)
+* [Пераклад](docs/peraklad.md)
 
 ## Рэлізы <a id="releases"></a>
 
